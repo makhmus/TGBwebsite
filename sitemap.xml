@@ -2,36 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://makhmus.github.io/TGBServer/</loc>
+    <loc>https://makhmus.github.io/TGBwebsite</loc>
     <priority>1.00</priority>
   </url>
 
   <url>
-    <loc>https://makhmus.github.io/TGBServer/blog/best-fivem-roleplay-servers.html</loc>
+    <loc>https://makhmus.github.io/TGBwebsite/blog/best-fivem-roleplay-servers.html</loc>
     <lastmod>2026-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.90</priority>
   </url>
 
   <url>
-    <loc>https://makhmus.github.io/TGBServer/blog/how-to-join-a-fivem-server.html</loc>
+    <loc>https://makhmus.github.io/TGBwebsite/blog/how-to-join-a-fivem-server.html</loc>
     <lastmod>2026-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
 
   <url>
-    <loc>https://makhmus.github.io/TGBServer/blog/fivem-rp-rules.html</loc>
+    <loc>https://makhmus.github.io/TGBwebsite/blog/fivem-rp-rules.html</loc>
     <lastmod>2026-02-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
 
   <url>
-  <loc>https://makhmus.github.io/TGBServer/blog/</loc>
+  <loc>https://makhmus.github.io/TGBwebsite/blog/</loc>
   <priority>0.85</priority>
 </url>
 
 
 </urlset>
+
 
