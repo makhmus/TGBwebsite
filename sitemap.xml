@@ -27,4 +27,11 @@
     <priority>0.80</priority>
   </url>
 
+  <url>
+  <loc>https://makhmus.github.io/TGBServer/blog/</loc>
+  <priority>0.85</priority>
+</url>
+
+
 </urlset>
+
