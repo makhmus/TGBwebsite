@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
-    <loc>https://YOURUSERNAME.github.io/tgb-server/</loc>
+    <loc>https://makhmus.github.io/TGBServer/</loc>
     <priority>1.00</priority>
   </url>
+
+  <url>
+    <loc>https://makhmus.github.io/TGBServer/blog/best-fivem-roleplay-servers.html</loc>
+    <lastmod>2026-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://makhmus.github.io/TGBServer/blog/how-to-join-a-fivem-server.html</loc>
+    <lastmod>2026-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://makhmus.github.io/TGBServer/blog/fivem-rp-rules.html</loc>
+    <lastmod>2026-02-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
 </urlset>
